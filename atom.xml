@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://imshuhao.github.io</id>
+    <id>https://blog.shuhao.ca</id>
     <title>Shuhao&apos;s Blog</title>
-    <updated>2021-12-06T23:47:42.786Z</updated>
+    <updated>2021-12-06T23:48:03.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://imshuhao.github.io"/>
-    <link rel="self" href="https://imshuhao.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.shuhao.ca"/>
+    <link rel="self" href="https://blog.shuhao.ca/atom.xml"/>
     <subtitle>Dream, as if you never wake up.</subtitle>
-    <logo>https://imshuhao.github.io/images/avatar.png</logo>
-    <icon>https://imshuhao.github.io/favicon.ico</icon>
+    <logo>https://blog.shuhao.ca/images/avatar.png</logo>
+    <icon>https://blog.shuhao.ca/favicon.ico</icon>
     <rights>All rights reserved 2021, Shuhao&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://imshuhao.github.io/post/hello-gridea/</id>
-        <link href="https://imshuhao.github.io/post/hello-gridea/">
+        <id>https://blog.shuhao.ca/post/hello-gridea/</id>
+        <link href="https://blog.shuhao.ca/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
